@@ -226,6 +226,7 @@ mod algorithms;
 pub mod errors;
 pub mod oaep;
 pub mod pkcs1v15;
+pub mod nopad;
 pub mod pss;
 pub mod traits;
 
